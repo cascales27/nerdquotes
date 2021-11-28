@@ -3299,3 +3299,5 @@ But I'm not gonna lie down until I get there.
 
 *E.W. Dijkstra*
 
+> "Siempre recordareis este dia, como el dia en el que casi empezasteis a dominar git".
+*Jack Sparrow, Capitan Jack Sparrow*
